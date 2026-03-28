@@ -1,1 +1,1 @@
-web: gunicorn sho:app
+web: gunicorn shp:app
