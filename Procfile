@@ -1,1 +1,1 @@
-web: gunicorn shp:app
+web: gunicorn shop:app
